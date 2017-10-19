@@ -1,5 +1,6 @@
 # git-pkgr
 Packages git files and creates a bash script to unpack changed files into their respective directories.
+This is useful for things like sending only changed files to clients that do not use git, or uploading via FTP.
 
 #### Install for Global Use
 ```
